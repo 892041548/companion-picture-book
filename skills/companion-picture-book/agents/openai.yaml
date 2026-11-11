@@ -1,0 +1,4 @@
+interface:
+  display_name: "陪伴式绘本制作"
+  short_description: "按年龄与共读表现推荐内容，分流故事或互动单页，生成双语图片并检查人物与情节一致性"
+  default_prompt: "使用 $companion-picture-book，根据孩子的年龄推荐陪伴内容，指导照片准备，确认故事或单页与画风后生成并质检。"
